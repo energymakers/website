@@ -1,6 +1,5 @@
 :root { 
-  --biloba-flower: #b6b0e40f;
-  --biloba-flower-2: #b6b0e454;
+  --biloba-flower: #b6b0e454;
   --black: #000000;
   --blue-violet: #5e4ec5;
   --burnt-orange: #ff7e47;
@@ -24,7 +23,7 @@
   --font-size-xl: 16px;
   --font-size-xxl: 18px;
   --font-size-xxxl: 22px;
-  --font-size-xxxxl: 25px;
+  --font-size-xxxxl: 32px;
  
   --font-family-ballpill-bold: "BallPill-bold", Helvetica;
   --font-family-gellix-regular: "Gellix-Regular", Helvetica;
@@ -61,49 +60,10 @@
   font-weight: 400;
 }
 
-.gellix-regular-normal-white-16px {
-  color: var(--ema-white);
-  font-family: var(--font-family-gellix-regular);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-}
-
 .gellix-regular-normal-white-18px {
   color: var(--ema-white);
   font-family: var(--font-family-gellix-regular);
   font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.gellix-regular-normal-white-11px {
-  color: var(--ema-white);
-  font-family: var(--font-family-gellix-regular);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.gellix-regular-normal-white-16px-2 {
-  font-family: var(--font-family-gellix-regular);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.gellix-regular-normal-minsk-16px {
-  color: var(--ema-dark-violet);
-  font-family: var(--font-family-gellix-regular);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.gellix-regular-normal-violet-red-16px {
-  color: var(--violet-red);
-  font-family: var(--font-family-gellix-regular);
-  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 400;
 }
@@ -124,18 +84,18 @@
   font-weight: 400;
 }
 
-.gellix-regular-normal-white-25px {
+.gellix-regular-normal-white-11px {
   color: var(--ema-white);
   font-family: var(--font-family-gellix-regular);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 400;
 }
 
-.gellix-regular-normal-minsk-15-9px {
-  color: var(--ema-dark-violet);
+.gellix-regular-normal-white-16px {
+  color: var(--ema-white);
   font-family: var(--font-family-gellix-regular);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 400;
 }
@@ -152,6 +112,14 @@
   color: var(--ema-very-dark-violet);
   font-family: var(--font-family-ballpill-bold);
   font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gellix-regular-normal-minsk-15-9px {
+  color: var(--ema-dark-violet);
+  font-family: var(--font-family-gellix-regular);
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 400;
 }
