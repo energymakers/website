@@ -1,0 +1,11 @@
+/* screen - photo-selects */
+
+.photo-selects {
+  background-color: var(--ema-white);
+  height: 11604px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 13856px;
+}

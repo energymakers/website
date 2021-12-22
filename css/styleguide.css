@@ -1,0 +1,129 @@
+:root { 
+  --biloba-flower: #b6b0e454;
+  --black: #000000;
+  --blue-violet: #5e4ec5;
+  --burnt-orange: #ff7e47;
+  --dull-lavender: #a799fc;
+  --dull-lavender-2: #a39bf903;
+  --ema-dark-violet: #453b73;
+  --ema-pale-violet: #a4a0d4;
+  --ema-very-dark-violet: #262042;
+  --ema-violet: #5d4dc4;
+  --ema-white: #ffffff;
+  --ema-yellow: #ffbc01;
+  --hit-pink: #ffa984;
+  --lines: #a4a0d454;
+  --shamrock: #39e681;
+  --tasman: #cdd5ce;
+  --violet-red: #f62086;
+ 
+  --font-size-l: 15.9px;
+  --font-size-m: 12px;
+  --font-size-s: 11px;
+  --font-size-xl: 16px;
+  --font-size-xxl: 18px;
+  --font-size-xxxl: 22px;
+  --font-size-xxxxl: 32px;
+ 
+  --font-family-ballpill-bold: "BallPill-bold", Helvetica;
+  --font-family-gellix-regular: "Gellix-Regular", Helvetica;
+  --font-family-gellix_trial-regular: "Gellix TRIAL-Regular", Helvetica;
+}
+.gellix-regular-normal-white-12px {
+  color: var(--ema-white);
+  font-family: var(--font-family-gellix-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gellix-regular-normal-white-12px-2 {
+  font-family: var(--font-family-gellix-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gellix-regular-normal-dull-lavender-12px {
+  color: var(--dull-lavender);
+  font-family: var(--font-family-gellix-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gellix-regular-normal-minsk-12px {
+  color: var(--ema-dark-violet);
+  font-family: var(--font-family-gellix-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gellix-regular-normal-white-18px {
+  color: var(--ema-white);
+  font-family: var(--font-family-gellix-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gellix-regular-normal-tasman-12px {
+  color: var(--tasman);
+  font-family: var(--font-family-gellix-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gellix-regular-normal-violet-red-12px {
+  color: var(--violet-red);
+  font-family: var(--font-family-gellix-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gellix-regular-normal-white-11px {
+  color: var(--ema-white);
+  font-family: var(--font-family-gellix-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gellix-regular-normal-white-16px {
+  color: var(--ema-white);
+  font-family: var(--font-family-gellix-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ballpill-normal-white-22px {
+  color: var(--ema-white);
+  font-family: var(--font-family-ballpill-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ballpill-normal-ebony-clay-22px {
+  color: var(--ema-very-dark-violet);
+  font-family: var(--font-family-ballpill-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gellix-regular-normal-minsk-15-9px {
+  color: var(--ema-dark-violet);
+  font-family: var(--font-family-gellix-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-1px-hit-pink {
+  border: 1px solid var(--hit-pink);
+}
